@@ -5,13 +5,13 @@ title: Connectivity failure - NEW - Updated
 date: 20211-11-11 20:03:00
 status: in_progress
 pinned: null
-current_severity: ok
+current_severity: down
 max_severity: down
 duration: null
 resolved_on: 2019-03-30 20:45:19
 affected:
-  - Site
   - Helpdesk
+  - Website
 twitterFeed: null
 enableComments: true
 ---
