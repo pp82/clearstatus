@@ -80,7 +80,7 @@ Both our website and customer support area cannot be reached at the moment. We a
 \
 **Monitoring:** The equipment in question has been replaced and website and support site can be reached. We are monitoring the servers for the next few minutes to be sure all is OK. {{< track "2019-03-30 20:31:19" >}}
 \
-**Resolved:** Both servers are operating normally, issue is solved. Really sorry about the trouble!
+**Resolved:** Both servers are operating normally, issue is solved. Really sorry about the trouble! Appreciate your patience.
 \
 
 
