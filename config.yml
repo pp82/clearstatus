@@ -13,7 +13,7 @@ params:
       link: https://support.example.com/
     - name: Google
       description: Google
-      link: https://www.google.com.au/?
+      link: https://www.google.com.au
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
